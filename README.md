@@ -1,7 +1,7 @@
 # queue_skipper
 
 A new Flutter project.
-
+QueueSkipper - So you don't have to wait in long queue in your university cafeteria.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
